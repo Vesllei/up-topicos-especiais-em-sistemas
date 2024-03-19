@@ -1,0 +1,6 @@
+
+### Listagem
+GET http://localhost:5028/api/produto
+
+### Cadastro
+GET http://localhost:5028/api/produto
